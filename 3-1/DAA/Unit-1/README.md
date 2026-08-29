@@ -31,5 +31,3 @@ While an algorithm represents the abstract logic or method for solving a problem
 - **Everyday Analogy:** A recipe for making a cup of tea acts as an everyday algorithm, though it lacks the absolute mathematical precision required for a computer to execute without further definition.
 
 ---
-
-💡 **Would you like to explore how the performance of these algorithms is evaluated using time and space complexity?**
