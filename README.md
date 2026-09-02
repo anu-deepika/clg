@@ -1,7 +1,7 @@
 # This repo contains my academic-related content
 The documents follow syllabus for B.Tech in CSE, VR-24 of VMTW.
 ## Repository Navigation
-
+|Name|Folder|
 |----------|--------|
 | I B.Tech. I Semester | [`1-1`](/1-1) |
 | I B.Tech. II Semester | [`1-2`](/1-2) |
