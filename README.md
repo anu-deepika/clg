@@ -1,11 +1,5 @@
-# VR24 B.Tech. Computer Science & Engineering – Complete Syllabus
-
-> **Autonomous Institution** – Vignan's Institute of Management and Technology for Women
-> **Regulations:** VR24 (2024–2028)
-> **Program:** B.Tech. in Computer Science & Engineering (CSE)
-
----
-
+# This repo contains my academic-related content
+The below content is the syllabus for B.Tech in CSE, VR-24 of VMTW.
 ## Repository Navigation
 
 | Semester | Folder |
